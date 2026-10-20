@@ -1,0 +1,24 @@
+{
+  "$schema": "https://living-code.dev/port.schema.json",
+  "schemaVersion": 1,
+  "name": "Tailwind CSS v4",
+  "slug": "tailwind",
+  "group": "Web & code",
+  "emoji": "🌬️",
+  "description": "Living Code for Tailwind CSS v4. Repository-owned theme files, installation instructions and four color flavors.",
+  "homepage": "https://tailwindcss.com",
+  "quick": "Install @living-code/tailwind",
+  "aliases": [
+    "tailwind"
+  ],
+  "flavors": [
+    "night",
+    "frost",
+    "paper",
+    "signal"
+  ],
+  "files": [
+    "living-code.css"
+  ],
+  "images": []
+}
